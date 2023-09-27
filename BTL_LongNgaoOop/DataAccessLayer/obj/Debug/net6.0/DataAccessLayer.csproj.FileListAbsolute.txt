@@ -1,0 +1,5 @@
+E:\Phát triển phần mềm hướng dịch vụ\BTL_LongNgaoOop\DataAccessLayer\obj\Debug\net6.0\DataAccessLayer.csproj.AssemblyReference.cache
+E:\Phát triển phần mềm hướng dịch vụ\BTL_LongNgaoOop\DataAccessLayer\obj\Debug\net6.0\DataAccessLayer.GeneratedMSBuildEditorConfig.editorconfig
+E:\Phát triển phần mềm hướng dịch vụ\BTL_LongNgaoOop\DataAccessLayer\obj\Debug\net6.0\DataAccessLayer.AssemblyInfoInputs.cache
+E:\Phát triển phần mềm hướng dịch vụ\BTL_LongNgaoOop\DataAccessLayer\obj\Debug\net6.0\DataAccessLayer.AssemblyInfo.cs
+E:\Phát triển phần mềm hướng dịch vụ\BTL_LongNgaoOop\DataAccessLayer\obj\Debug\net6.0\DataAccessLayer.csproj.CoreCompileInputs.cache

@@ -1,0 +1,184 @@
+{
+  "format": 1,
+  "restore": {
+    "E:\\Phát triển phần mềm hướng dịch vụ\\BTL_LongNgaoOop\\BussinessLayer\\BussinessLayer.csproj": {}
+  },
+  "projects": {
+    "E:\\Phát triển phần mềm hướng dịch vụ\\BTL_LongNgaoOop\\BussinessLayer\\BussinessLayer.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\Phát triển phần mềm hướng dịch vụ\\BTL_LongNgaoOop\\BussinessLayer\\BussinessLayer.csproj",
+        "projectName": "BussinessLayer",
+        "projectPath": "E:\\Phát triển phần mềm hướng dịch vụ\\BTL_LongNgaoOop\\BussinessLayer\\BussinessLayer.csproj",
+        "packagesPath": "C:\\Users\\longc\\.nuget\\packages\\",
+        "outputPath": "E:\\Phát triển phần mềm hướng dịch vụ\\BTL_LongNgaoOop\\BussinessLayer\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\longc\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "E:\\Phát triển phần mềm hướng dịch vụ\\BTL_LongNgaoOop\\DataAccessLayer\\DataAccessLayer.csproj": {
+                "projectPath": "E:\\Phát triển phần mềm hướng dịch vụ\\BTL_LongNgaoOop\\DataAccessLayer\\DataAccessLayer.csproj"
+              },
+              "E:\\Phát triển phần mềm hướng dịch vụ\\BTL_LongNgaoOop\\Model\\Model.csproj": {
+                "projectPath": "E:\\Phát triển phần mềm hướng dịch vụ\\BTL_LongNgaoOop\\Model\\Model.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.401\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "E:\\Phát triển phần mềm hướng dịch vụ\\BTL_LongNgaoOop\\DataAccessLayer\\DataAccessLayer.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\Phát triển phần mềm hướng dịch vụ\\BTL_LongNgaoOop\\DataAccessLayer\\DataAccessLayer.csproj",
+        "projectName": "DataAccessLayer",
+        "projectPath": "E:\\Phát triển phần mềm hướng dịch vụ\\BTL_LongNgaoOop\\DataAccessLayer\\DataAccessLayer.csproj",
+        "packagesPath": "C:\\Users\\longc\\.nuget\\packages\\",
+        "outputPath": "E:\\Phát triển phần mềm hướng dịch vụ\\BTL_LongNgaoOop\\DataAccessLayer\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\longc\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "E:\\Phát triển phần mềm hướng dịch vụ\\BTL_LongNgaoOop\\Model\\Model.csproj": {
+                "projectPath": "E:\\Phát triển phần mềm hướng dịch vụ\\BTL_LongNgaoOop\\Model\\Model.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.401\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "E:\\Phát triển phần mềm hướng dịch vụ\\BTL_LongNgaoOop\\Model\\Model.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\Phát triển phần mềm hướng dịch vụ\\BTL_LongNgaoOop\\Model\\Model.csproj",
+        "projectName": "Model",
+        "projectPath": "E:\\Phát triển phần mềm hướng dịch vụ\\BTL_LongNgaoOop\\Model\\Model.csproj",
+        "packagesPath": "C:\\Users\\longc\\.nuget\\packages\\",
+        "outputPath": "E:\\Phát triển phần mềm hướng dịch vụ\\BTL_LongNgaoOop\\Model\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\longc\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.401\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

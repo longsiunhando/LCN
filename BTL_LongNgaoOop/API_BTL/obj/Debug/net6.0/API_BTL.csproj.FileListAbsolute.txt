@@ -1,0 +1,6 @@
+E:\Phát triển phần mềm hướng dịch vụ\BTL_LongNgaoOop\API_BTL\obj\Debug\net6.0\API_BTL.csproj.AssemblyReference.cache
+E:\Phát triển phần mềm hướng dịch vụ\BTL_LongNgaoOop\API_BTL\obj\Debug\net6.0\API_BTL.GeneratedMSBuildEditorConfig.editorconfig
+E:\Phát triển phần mềm hướng dịch vụ\BTL_LongNgaoOop\API_BTL\obj\Debug\net6.0\API_BTL.AssemblyInfoInputs.cache
+E:\Phát triển phần mềm hướng dịch vụ\BTL_LongNgaoOop\API_BTL\obj\Debug\net6.0\API_BTL.AssemblyInfo.cs
+E:\Phát triển phần mềm hướng dịch vụ\BTL_LongNgaoOop\API_BTL\obj\Debug\net6.0\API_BTL.csproj.CoreCompileInputs.cache
+E:\Phát triển phần mềm hướng dịch vụ\BTL_LongNgaoOop\API_BTL\obj\Debug\net6.0\API_BTL.MvcApplicationPartsAssemblyInfo.cache
